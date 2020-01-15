@@ -1,6 +1,8 @@
 
-  # ChatAppMVC   - Android-App                                                    
- 
+  # ChatAppMVC   - Android-App      
+  
+  
+ ### the backend part of this app is in another repository (chatapp_server) 
  ------------------------------------------------------
 
  ## Discription 
@@ -28,7 +30,7 @@
  - SnackBar 
  - recive and send ChatMessage  
  - Drag and drop recycler view animation 
- - time stammp  
+ - time stamp  
  - cardView holder 
  - user frindly and stable UI 
 
