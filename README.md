@@ -60,6 +60,14 @@
  |  cardView           |  Display a recycler view single item                |
  -----------------------------------------------------------------------------
  |  snackBar           |  give a feedback for user interaction with th UI    | 
+ 
+ 
+## photos
+
+---------------------
+
+
+<img src="Capture1.PNG" width="800">  
 
 
 
