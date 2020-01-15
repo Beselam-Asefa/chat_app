@@ -67,7 +67,7 @@
 ---------------------
 
 
-<img src="Capture1.PNG" width="800">  
+<img src="Capture1.png" width="800">  
 
 
 
